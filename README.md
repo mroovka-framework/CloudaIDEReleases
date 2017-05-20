@@ -4,3 +4,4 @@ We continue to work on beta versions.
 Now we upgraded UI
 Addded new widgets
 Tests
+Added breadcrumbs
