@@ -1,3 +1,3 @@
 # CloudaIDEReleases
 This repository contains releases of the CloudaIDE framework
-RC! relaease
+RC1 release
