@@ -1,4 +1,4 @@
 # CloudaIDEReleases
 This repository contains releases of the CloudaIDE framework
-RC1 release
-With datePicker
+release 1.1.935
+
