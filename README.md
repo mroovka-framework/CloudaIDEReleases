@@ -1,6 +1,6 @@
 # CloudaIDEReleases
 This repository contains releases of 
 the CloudaIDE framework
-Current release 1.1.2230
+Current release 1.1.2300
 
 
